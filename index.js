@@ -13,3 +13,10 @@ for(let i=0;i<arr2.length;i++){
   sum2+=arr2[i];
 }
 console.log(sum2);
+
+let arr3=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];   // 3rd commit
+let sum3=0;
+for(let i=0;i<arr3.length;i++){
+  sum3+=arr3[i];
+}
+console.log(sum3);
