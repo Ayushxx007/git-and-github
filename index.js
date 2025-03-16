@@ -40,4 +40,11 @@ function newBranch2(){    // new branch 2nd commit
 
 newBranch2();
 
+let arr5=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25];   // 5th commit
+let sum5=0;
+for(let i=0;i<arr5.length;i++){
+  sum5+=arr5[i];
+}
+console.log(sum5);
+
 
