@@ -33,3 +33,11 @@ function newBranch(){     // new branch 1st commit
 }
 
 newBranch();
+
+function newBranch2(){    // new branch 2nd commit
+  console.log("This is a new branch");
+}
+
+newBranch2();
+
+
