@@ -27,3 +27,17 @@ for(let i=0;i<arr4.length;i++){
   sum4+=arr4[i];
 }
 console.log(sum4);
+
+function newBranch(){     // new branch 1st commit 
+  console.log("This is a new branch");
+}
+
+newBranch();
+
+function newBranch2(){    // new branch 2nd commit
+  console.log("This is a new branch");
+}
+
+newBranch2();
+
+
